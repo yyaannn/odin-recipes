@@ -4,6 +4,7 @@
 - [Features](#features)
 - [Technologies](#technologies)
 - [Usage](#usage)
+- [Sources](#sources)
 ## Overview
 **Odin Recipes** is a simple recipe website where you can explore several delicious dishes. Each recipe contains an image of the finised dish, a brief description, a list of ingredients, and easy-to-follow steps.
 ## Features
@@ -19,3 +20,5 @@
 ## Usage
 1. Visit the himepage to browse the recipes.
 2. Click on the the recipe to the details.
+## Sources
+The inspiration for this project and most of its structure comes from [The Odin Project - Foundations Course - Project: Recipes](https://www.theodinproject.com/lessons/foundations-recipes).
