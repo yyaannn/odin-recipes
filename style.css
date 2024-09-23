@@ -1,0 +1,13 @@
+body {
+    background-color: #97d7e6;
+    font-size: 16px;
+}
+
+h1 {
+    text-align: center;
+}
+
+.recipe-list {
+    font-size: 20px;
+    font-weight: bold;
+}
